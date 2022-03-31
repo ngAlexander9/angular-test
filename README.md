@@ -1,6 +1,6 @@
-# angular-test
+# [angular-test](https://angular-test-ecbd7.web.app/)
 
-testing angular ts framework
+testing angular ts framework and deploying with firebase
 
 `ng serve`: starts local server on port 4200. can select port with `--port` option
 

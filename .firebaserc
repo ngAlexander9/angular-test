@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-test-ecbd7"
+  },
+  "targets": {
+    "angular-test-ecbd7": {
+      "hosting": {
+        "angular.io-example": [
+          "angular-test-ecbd7"
+        ]
+      }
+    }
+  }
+}
